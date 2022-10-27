@@ -5,3 +5,6 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 //The passphrase is IITT, remember it!
+
+const alpha = 5;
+const beta = "beta";
